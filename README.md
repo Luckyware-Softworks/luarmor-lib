@@ -342,5 +342,5 @@ https://docs.luarmor.net/docs-for-3rd-parties/3rd-party-external-key-check-api
 
 ## Support
 
-For questions about the Luarmor API, contact federal.
+For questions about the Luarmor API, contact @f.e.d.e.r.a.l 
 
